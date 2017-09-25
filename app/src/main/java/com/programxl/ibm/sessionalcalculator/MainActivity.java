@@ -42,10 +42,7 @@ public class MainActivity extends AppCompatActivity {
     public void clickFunction(View view){
 
 
-        for(int i=0;i<6;i++)
-        {
 
-        }
         //Obtained Assignment 1
         edit = (EditText)findViewById(R.id.obt_assi1);
        sum_obt(edit);
